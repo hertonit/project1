@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "express": "^5.2.1",
+    "tedious": "^20.0.0"
+  }
+}
